@@ -1,0 +1,38 @@
+[
+    {
+        "id": "a9be2ea1-66f6-40d7-9889-a263a983b18e",
+        "name": "PM",
+        "image": "https://s3.amazonaws.com/mobile.miaguila/PM.png",
+        "is_dynamic_amount": false,
+        "amount": 200000,
+        "lower_limit_arrival_time_at": null,
+        "upper_limit_arrival_time_at": null,
+        "lower_limit_departure_time_at": "20:00:00",
+        "upper_limit_departure_time_at": "00:00:00",
+        "schedule_interval": "00:30:00"
+    },
+    {
+        "id": "ce0c986c-c6b9-4307-bd25-ef9ebf030ec1",
+        "name": "AM y PM",
+        "image": "https://s3.amazonaws.com/mobile.miaguila/AM_PM.png",
+        "is_dynamic_amount": false,
+        "amount": 300000,
+        "lower_limit_arrival_time_at": "11:00:00",
+        "upper_limit_arrival_time_at": "15:00:00",
+        "lower_limit_departure_time_at": "20:00:00",
+        "upper_limit_departure_time_at": "00:00:00",
+        "schedule_interval": "00:30:00"
+    },
+    {
+        "id": "b0e2bfd0-8474-454c-985c-98d3f0409f46",
+        "name": "AM",
+        "image": "https://s3.amazonaws.com/mobile.miaguila/AM.png",
+        "is_dynamic_amount": false,
+        "amount": 200000,
+        "lower_limit_arrival_time_at": "11:00:00",
+        "upper_limit_arrival_time_at": "15:00:00",
+        "lower_limit_departure_time_at": null,
+        "upper_limit_departure_time_at": null,
+        "schedule_interval": "00:30:00"
+    }
+]
