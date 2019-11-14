@@ -1,4 +1,5 @@
-[
+{
+    "plans" : [
     {
         "id": "a9be2ea1-66f6-40d7-9889-a263a983b18e",
         "name": "PM",
@@ -36,3 +37,4 @@
         "schedule_interval": "00:30:00"
     }
 ]
+}
