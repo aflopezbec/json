@@ -30,10 +30,10 @@
         "image": "https://s3.amazonaws.com/mobile.miaguila/AM_PM.png",
         "isDynamicAmount": false,
         "amount": 300000,
-        "lowerLimitArrivalTimeAt": "11:00:00",
-        "upperLimitArrivalTimeAt": "15:00:00",
-        "lowerLimitDepartureTimeAt": "20:00:00",
-        "upperLimitDepartureTimeAt": "23:59:00",
+        "lowerLimitArrivalTimeAt": "11:00:00+00:00",
+        "upperLimitArrivalTimeAt": "15:00:00+00:00",
+        "lowerLimitDepartureTimeAt": "20:00:00+00:00",
+        "upperLimitDepartureTimeAt": "23:59:00+00:00",
         "scheduleInterval": "00:30:00"
     }
 ]
