@@ -41,8 +41,8 @@
 	   "tripId": "123456789012345678901234",
 	   "groupId": "123456789012345678901234",
 	   "isPickup": true,
-	   "tripServiceType": "Inmediato",
-	   "tripStatus": 3,
+	   "tripServiceType": 1,
+	   "tripStatus": 2,
 	   "tripUser": {
 	      "id": "123456789012345678901234",
 	      "firstName": "Viviana",
@@ -62,8 +62,8 @@
 	   "tripId": "123456789012345678901235",
 	   "groupId": "123456789012345678901234",
 	   "isPickup": true,
-	   "tripServiceType": "Inmediato",
-	   "tripStatus": 3,
+	   "tripServiceType": 1,
+	   "tripStatus": 4,
 	   "tripUser": {
 	      "id": "123456789012345678901234",
 	      "firstName": "Oscar",
@@ -83,7 +83,7 @@
 	   "tripId": "123456789012345678901236",
 	   "groupId": "123456789012345678901234",
 	   "isPickup": true,
-	   "tripServiceType": "Inmediato",
+	   "tripServiceType": 1,
 	   "tripStatus": 3,
 	   "tripUser": {
 	      "id": "123456789012345678901234",
@@ -104,7 +104,7 @@
 	   "tripId": "123456789012345678901238",
 	   "groupId": "123456789012345678901238",
 	   "isPickup": true,
-	   "tripServiceType": "Inmediato",
+	   "tripServiceType": 1,
 	   "tripStatus": 3,
 	   "tripUser": {
 	      "id": "123456789012345678901234",
@@ -125,7 +125,7 @@
 	   "tripId": "123456789012345678901239",
 	   "groupId": "123456789012345678901238",
 	   "isPickup": true,
-	   "tripServiceType": "Inmediato",
+	   "tripServiceType": 1,
 	   "tripStatus": 3,
 	   "tripUser": {
 	      "id": "123456789012345678901234",
