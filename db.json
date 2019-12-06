@@ -120,6 +120,27 @@
 	      "longitude": -74.327287328732
 	   },
 	   "scheduleAt": "2019-10-03T12:00:00.000Z"
+	},
+	{
+	   "tripId": "123456789012345678901239",
+	   "groupId": "123456789012345678901238",
+	   "isPickup": true,
+	   "tripServiceType": "Inmediato",
+	   "tripStatus": 3,
+	   "tripUser": {
+	      "id": "123456789012345678901234",
+	      "firstName": "Diego",
+	      "lastName": "Baquero",
+	      "company": null,
+	      "phone": "3123291045",
+	      "image": "https://s3.amazonaws.com/miaguila.pictures/profile/900922"
+	   },
+	   "address": {
+	      "text": "Carrera 53 # 187-41",
+	      "latitude": 4.546565443334,
+	      "longitude": -74.327287328732
+	   },
+	   "scheduleAt": "2019-10-03T12:00:00.000Z"
 	}
 ]
 }
