@@ -45,8 +45,8 @@
 	   "tripStatus": 4,
 	   "tripUser": {
 	      "id": "123456789012345678901234",
-	      "firstName": "Viviana",
-	      "lastName": "Rodríguez",
+	      "firstName": "Viviana Viviana",
+	      "lastName": "Rodríguez Rodríguez",
 	      "company": null,
 	      "phone": "3123291045",
 	      "image": "https://s3.amazonaws.com/miaguila.pictures/profile/900922"
