@@ -142,5 +142,16 @@
 	   },
 	   "scheduleAt": "2019-10-03T12:00:00.000Z"
 	}
-]
+],
+	"zone":{
+  "result": {
+    "break": {
+      "start": "11:00",
+      "end_minutes": 200,
+      "total": 200,
+      "resting": false
+    },
+    "points": "op}d@jmhlMcu@cy@tIsu@|mBg}@v{CnmBaQzrBwiB{h@kbBoH"
+  }
+}
 }
