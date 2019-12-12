@@ -152,5 +152,16 @@
     },
     "points": "op}d@jmhlMcu@cy@tIsu@|mBg}@v{CnmBaQzrBwiB{h@kbBoH"
   }
+},"zoneWithTripId":{
+  "result": {
+    "break": {
+      "start": "11:00",
+      "end_minutes": 200,
+      "total": 200,
+      "resting": false
+    },
+    "points": "op}d@jmhlMcu@cy@tIsu@|mBg}@v{CnmBaQzrBwiB{h@kbBoH",
+    "trip_id":"asdsdasdsd"
+  }
 }
 }
