@@ -166,8 +166,9 @@
 		"categories": [
 		  "markets"
 		],
-		"image": "https://s3.amazonaws.com/mobile.miaguila/store/d1_logo.png",
-		"url": ""
+        "imageUrl": "https://www.miaguila.com/logos/D1.svg",
+		"url": "",
+        "primaryColor": "#E52329"
 	  },
 	  {
 		"id": "mi_aguila",
@@ -176,8 +177,9 @@
 		"categories": [
 		  "transportation"
 		],
-		"image": "https://s3.amazonaws.com/mobile.miaguila/store/miaguila-logo.png",
-		"url": ""
+        "imageUrl": "http://develop.d1.miaguila.com/logos/cromantic.svg",
+		"url": "",
+        "primaryColor": "#000000"
 	  }
 	]
   }
