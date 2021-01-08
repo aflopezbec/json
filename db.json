@@ -142,45 +142,30 @@
 	   },
 	   "scheduleAt": "2019-10-03T12:00:00.000Z"
 	}
-],"stores":{
-	"categories": [
-	  {
-		"key": "all",
-		"label": "Todos"
-	  },
-	  {
-		"key": "markets",
-		"label": "Supermercados",
-		"image": "http://develop.d1.miaguila.com/images/supermarket2.png"
-	  },
-	  {
-		"key": "transportation",
-		"label": "Transporte",
-		"image": "http://develop.d1.miaguila.com/images/car.png"
-	  }
-	],
-	"items": [
-	  {
-		"id": "d1",
-		"title": "Tiendas D1",
-		"categories": [
-		  "markets"
-		],
-        "imageUrl": "https://www.miaguila.com/logos/D1.svg",
-		"url": "",
-        "primaryColor": "#E52329"
-	  },
-	  {
-		"id": "mi_aguila",
-		"title": "Mi Águila Transporte",
-		"description": "Servicio tradicional de transporte",
-		"categories": [
-		  "transportation"
-		],
-        "imageUrl": "http://develop.d1.miaguila.com/logos/cromantic.svg",
-		"url": "",
-        "primaryColor": "#000000"
-	  }
-	]
-  }
+],"stores":[
+	{
+		"name":"Store Suba",
+	      "latitude": 4.744986528000084,
+	      "longitude": -74.0975659259999
+
+	},
+	{
+		"name":"Store Bosa",
+	      "latitude": 4.597087665547672,
+	      "longitude": -74.18011464178562
+
+	},
+	{
+		"name":"Store Soacha",
+	      "latitude": 4.5919186,
+	      "longitude": -74.205607
+
+	},
+	{
+		"name":"Store Heroes",
+	      "latitude": 4.6673227,
+	      "longitude": -74.0565888
+
+	}
+]
 }
