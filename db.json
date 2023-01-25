@@ -36,24 +36,6 @@
             "max_phone_length": 9,
             "language": "es",
             "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/ecuador_flag.svg"
-        },
-        {
-            "country_id": 5,
-            "name": "Mexico",
-            "phone_prefix": 52,
-            "min_phone_length": 10,
-            "max_phone_length": 10,
-            "language": "es",
-            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/mexico_flag.svg"
-        },
-        {
-            "country_id": 6,
-            "name": "Perú",
-            "phone_prefix": 51,
-            "min_phone_length": 9,
-            "max_phone_length": 9,
-            "language": "es",
-            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/peru_flag.svg"
         }
     ]
 }
