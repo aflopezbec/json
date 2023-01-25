@@ -18,24 +18,6 @@
             "max_phone_length": 10,
             "language": "es",
             "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/colombian_flag.svg"
-        },
-        {
-            "country_id": 3,
-            "name": "Chile",
-            "phone_prefix": 56,
-            "min_phone_length": 9,
-            "max_phone_length": 11,
-            "language": "es",
-            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/chile_flag.svg"
-        },
-        {
-            "country_id": 4,
-            "name": "Ecuador",
-            "phone_prefix": 593,
-            "min_phone_length": 9,
-            "max_phone_length": 9,
-            "language": "es",
-            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/ecuador_flag.svg"
         }
     ]
 }
