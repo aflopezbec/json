@@ -54,24 +54,6 @@
             "max_phone_length": 9,
             "language": "es",
             "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/peru_flag.svg"
-        },
-        {
-            "country_id": 7,
-            "name": "Uruguay",
-            "phone_prefix": 598,
-            "min_phone_length": 8,
-            "max_phone_length": 8,
-            "language": "es",
-            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/uruguay_flag.svg"
-        },
-        {
-            "country_id": 8,
-            "name": "Venezuela",
-            "phone_prefix": 58,
-            "min_phone_length": 10,
-            "max_phone_length": 10,
-            "language": "es",
-            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/venezuela_flag.svg"
         }
     ]
 }
