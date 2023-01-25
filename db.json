@@ -82,5 +82,81 @@
             "attributes": {}
         }
     }
-]
+], 
+    "countries" : {
+    "countries": [
+        {
+            "country_id": 1,
+            "name": "Argentina",
+            "phone_prefix": 54,
+            "min_phone_length": 10,
+            "max_phone_length": 10,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/argentina_flag.svg"
+        },
+        {
+            "country_id": 2,
+            "name": "Colombia",
+            "phone_prefix": 57,
+            "min_phone_length": 10,
+            "max_phone_length": 10,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/colombian_flag.svg"
+        },
+        {
+            "country_id": 3,
+            "name": "Chile",
+            "phone_prefix": 56,
+            "min_phone_length": 9,
+            "max_phone_length": 11,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/chile_flag.svg"
+        },
+        {
+            "country_id": 4,
+            "name": "Ecuador",
+            "phone_prefix": 593,
+            "min_phone_length": 9,
+            "max_phone_length": 9,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/ecuador_flag.svg"
+        },
+        {
+            "country_id": 5,
+            "name": "Mexico",
+            "phone_prefix": 52,
+            "min_phone_length": 10,
+            "max_phone_length": 10,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/mexico_flag.svg"
+        },
+        {
+            "country_id": 6,
+            "name": "Perú",
+            "phone_prefix": 51,
+            "min_phone_length": 9,
+            "max_phone_length": 9,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/peru_flag.svg"
+        },
+        {
+            "country_id": 7,
+            "name": "Uruguay",
+            "phone_prefix": 598,
+            "min_phone_length": 8,
+            "max_phone_length": 8,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/uruguay_flag.svg"
+        },
+        {
+            "country_id": 8,
+            "name": "Venezuela",
+            "phone_prefix": 58,
+            "min_phone_length": 10,
+            "max_phone_length": 10,
+            "language": "es",
+            "flag_image_url": "https://popapp-lite.s3.us-west-2.amazonaws.com/banderas+svgs/venezuela_flag.svg"
+        }
+    ]
+}
 }
